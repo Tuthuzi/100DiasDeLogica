@@ -1,4 +1,4 @@
-# ☕ 100diasJAVA
+# ☕ 100diasLógica
 
 
 Repositório criado para organizar meu desafio de 100 dias de código com JAVA, sendo iniciado em 20 de outubro de 2023.
