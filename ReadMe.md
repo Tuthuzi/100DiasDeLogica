@@ -165,8 +165,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Temas vistos: Pacotes, import e construtores, palavra chave this.
 
 ###### Dia 32
-- Aulas 31 e 32 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Temas vistos: Modificadores de acesso: default, private e public. Métodos getters e setters (encapsulamento).
+
 
 ###### Dia 33
 
