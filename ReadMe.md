@@ -357,7 +357,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ### 📄 Cursos
 - [Loiane - Cursos com certificado](https://loiane.training)
-
+- [Teo Calvo - Git e GitHub](https://www.youtube.com/watch?v=napLViBKAtA&list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11)
 
 ### 🎥 Vídeos
 - [[Playlist] 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
